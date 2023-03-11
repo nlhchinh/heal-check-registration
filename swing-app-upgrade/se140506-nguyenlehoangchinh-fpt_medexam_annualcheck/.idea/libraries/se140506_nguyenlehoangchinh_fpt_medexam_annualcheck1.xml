@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="se140506-nguyenlehoangchinh-fpt_medexam_annualcheck1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/se140506-nguyenlehoangchinh-fpt_medexam_annualcheck.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
