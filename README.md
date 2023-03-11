@@ -27,5 +27,5 @@
 ### Contact
 Please feel free to contact me if you have any questions or feedback about the application.
 
-### Email: chinhnguyen1692000z@gmail.com
+#### Email: chinhnguyen1692000z@gmail.com
 #### Copyright © 2023 chinh.nguyen
